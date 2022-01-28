@@ -4,18 +4,11 @@
   font-family: "Roboto", sans-serif;
 }
 
-body {
-}
-
 .white-box {
   background: white;
   padding: 20px;
   border-radius: 5px;
   box-shadow: 0.5px 0.5px 2px 1px #eee;
-}
-
-.font-bol {
-  font-weight: bold;
 }
 
 .border-LE {
@@ -36,6 +29,14 @@ body {
 
 .color {
   color: #4fbdba;
+}
+
+.font-bol {
+  font-weight: bold;
+}
+
+.font-siz {
+  font-size: 15px;
 }
 
 .good-button {
